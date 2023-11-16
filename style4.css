@@ -1,0 +1,45 @@
+body{
+    color:darkblue;
+    text-align:start;
+}
+h4{
+    font-weight:600;
+    color:yellow;
+    display:block;
+    font-size:x-large;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    scroll-margin-inline-end: 0px;
+}
+input[type="submit" i] {
+    appearance: auto;
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    cursor:default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    color: red;
+    padding:1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+    p
+    {
+        font-family:Helvetica,sans-serif;
+        animation:3s;
+    }
+    .abc{
+    height:50px;
+    width:200px;
+    color:white;
+    margin:auto;
+    }
+    input[type="text"] {
+        text-align: center;
+    }
+    
